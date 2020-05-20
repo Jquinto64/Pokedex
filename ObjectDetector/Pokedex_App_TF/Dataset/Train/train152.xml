@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train152.jpg</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train152.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>734</width>
+		<height>950</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mewtwo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>23</ymin>
+			<xmax>710</xmax>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+</annotation>

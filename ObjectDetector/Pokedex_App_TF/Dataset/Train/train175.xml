@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train175.png</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train175.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>694</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rayquaza</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>52</ymin>
+			<xmax>1024</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+</annotation>

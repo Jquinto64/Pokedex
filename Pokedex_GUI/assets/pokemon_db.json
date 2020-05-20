@@ -1,0 +1,30 @@
+{
+	"bulbasaur": {
+		"height": "2' 4\"",
+		"weight": "15.2lbs"
+	},
+	"charmander": {
+		"height": "2' 0\"",
+		"weight": "18.7lbs"
+	},
+	"jigglypuff": {
+		"height": "1' 6\"", 
+		"weight": "12.1lbs"
+	},
+	"mewtwo": {
+		"height": "6' 7\"",
+		"weight": "269lbs"
+	},
+	"pikachu": {
+		"height": "1' 4\"",
+		"weight": "13.2lbs"
+	},
+	"rayquaza": {
+		"height": "23' 0\"", 
+		"weight": "455.2lbs"
+	},
+	"squirtle": {
+		"height": "1' 8\"",
+		"weight": "19.8lbs"
+	}
+}

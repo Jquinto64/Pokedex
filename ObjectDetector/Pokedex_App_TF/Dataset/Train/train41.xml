@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train41.jpg</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulbasaur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>45</ymin>
+			<xmax>708</xmax>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+</annotation>

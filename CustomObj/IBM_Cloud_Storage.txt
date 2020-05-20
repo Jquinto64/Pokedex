@@ -1,0 +1,13 @@
+{
+  "apikey": "SgqN4-UoSjYIePsAhiFpn1rxlzJIcdkJAjZG2ydsBrsD",
+  "cos_hmac_keys": {
+    "access_key_id": "c2c322721fb84ebda36abc58c4ead19b",
+    "secret_access_key": "dcba73888624af92584dc2bab487bfd58c526e21770872af"
+  },
+  "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
+  "iam_apikey_description": "Auto-generated for key c2c32272-1fb8-4ebd-a36a-bc58c4ead19b",
+  "iam_apikey_name": "johnnyfloater",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/3ab604941b7e4ee1ac826ce0dc6a563f::serviceid:ServiceId-f8ccac73-9153-428e-931f-9a53f6eb209a",
+  "resource_instance_id": "crn:v1:bluemix:public:cloud-object-storage:global:a/3ab604941b7e4ee1ac826ce0dc6a563f:0f45dd86-051e-418c-9b22-38f55fa526a7::"
+}

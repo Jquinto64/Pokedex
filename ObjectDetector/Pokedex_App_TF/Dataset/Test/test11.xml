@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>test11.png</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Test\test11.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>786</width>
+		<height>1016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mewtwo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>51</ymin>
+			<xmax>714</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

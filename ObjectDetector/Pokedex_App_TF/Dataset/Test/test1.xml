@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>test1.png</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Test\test1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5000</width>
+		<height>4356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bulbasaur</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>143</ymin>
+			<xmax>5000</xmax>
+			<ymax>4207</ymax>
+		</bndbox>
+	</object>
+</annotation>

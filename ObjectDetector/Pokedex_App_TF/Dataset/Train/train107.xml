@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train107.png</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train107.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jigglypuff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>103</ymin>
+			<xmax>859</xmax>
+			<ymax>788</ymax>
+		</bndbox>
+	</object>
+</annotation>

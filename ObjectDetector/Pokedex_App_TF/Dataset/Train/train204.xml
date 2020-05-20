@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train204.jpg</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>950</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pikachu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>39</ymin>
+			<xmax>1148</xmax>
+			<ymax>854</ymax>
+		</bndbox>
+	</object>
+</annotation>

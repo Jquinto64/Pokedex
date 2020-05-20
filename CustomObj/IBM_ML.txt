@@ -1,0 +1,9 @@
+{
+  "apikey": "CvMN16WPv2jVfQXzlJQIw1bhQD_5DI_iufrR6EBI-8lb",
+  "iam_apikey_description": "Auto-generated for key 94b06628-ce1e-4d2a-8f2c-ff1538ea215b",
+  "iam_apikey_name": "JohnnyFloater",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/3ab604941b7e4ee1ac826ce0dc6a563f::serviceid:ServiceId-84c6d292-debb-46ff-a4f2-43adc2af9d34",
+  "instance_id": "435f0984-5c2e-493b-9a07-165a57a38ac5",
+  "url": "https://us-south.ml.cloud.ibm.com"
+}

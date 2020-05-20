@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>test17.png</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Test\test17.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>843</width>
+		<height>948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rayquaza</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>51</ymin>
+			<xmax>843</xmax>
+			<ymax>908</ymax>
+		</bndbox>
+	</object>
+</annotation>

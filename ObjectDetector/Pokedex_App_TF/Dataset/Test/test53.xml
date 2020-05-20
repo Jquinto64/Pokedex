@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>test53.png</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Test\test53.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>901</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jigglypuff</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>8</ymin>
+			<xmax>890</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>

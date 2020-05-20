@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train62.jpg</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>817</width>
+		<height>862</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>charamander</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>16</ymin>
+			<xmax>763</xmax>
+			<ymax>807</ymax>
+		</bndbox>
+	</object>
+</annotation>

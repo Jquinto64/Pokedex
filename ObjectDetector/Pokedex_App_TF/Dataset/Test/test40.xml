@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>test40.jpg</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Test\test40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>884</width>
+		<height>1094</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirtle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>33</ymin>
+			<xmax>821</xmax>
+			<ymax>1053</ymax>
+		</bndbox>
+	</object>
+</annotation>

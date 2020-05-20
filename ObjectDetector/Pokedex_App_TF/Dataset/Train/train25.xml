@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train</folder>
+	<filename>train25.jpg</filename>
+	<path>C:\Users\jquin\Desktop\Pokedex_App\Dataset\Train\train25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1018</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squirtle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>10</ymin>
+			<xmax>969</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>
